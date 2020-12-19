@@ -108,7 +108,7 @@ hr {
 
 /* home */
 #home {
-  background-image: url('/img/wall.png');
+  background-image: url('img/wall.png');
   background-size: cover;
   background-position: center;
   text-align: center;
