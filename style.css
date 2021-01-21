@@ -420,6 +420,7 @@ hr {
 
 .project:hover .project__desc, .project {
   opacity: 1;
+  cursor: pointer;
 }
 
 .project__img__3d {
@@ -601,6 +602,7 @@ hr {
 
   .project {
     flex-grow: 1;
+    cursor: pointer;
   }
 
   .arrow__up {

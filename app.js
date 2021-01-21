@@ -155,4 +155,5 @@ sections.forEach(section => observer.observe(section));
 
 window.addEventListener('scroll', () => {
   selectNavItem(navItems[selectedNavIndex]);
-})
+});
+
